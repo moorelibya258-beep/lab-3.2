@@ -23,7 +23,7 @@ article, .qr-code{
 }
 
 .qr-code{
-  background-image: url(favicon-32x32\ \(2\).png);
+  background-image: url(image-qr-code.png);
   height: 300px;
   width: auto;
   background-size: cover;
